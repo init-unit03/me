@@ -2,7 +2,7 @@
 
 By default, virtualbox network type is set to NAT.  Devices outside virtualbox will not be able
 to  access the services within.  To allow it to do so you would need to setup port forwarding.
-Go to Machine -> Settings -> Network -> Advanced -> Port Forwarding.
+Go to Machine -> Settings -> Network -> Advanced -> Port Forwarding. 
 
 Make sure to select the plus icon on the side of the window that opens up.
 
