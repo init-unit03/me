@@ -24,8 +24,6 @@ What if I want *italic* or **bold** or ***bolditalic***?
 
 How about something that look like `code`?
 
-https://rwx.gg
-
 * I put references at the bottom
 
     #zettel #notes
